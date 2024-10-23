@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Trio-Photographers/static/css/main.5491ea36.css",
+    "main.js": "/Trio-Photographers/static/js/main.7514044b.js",
+    "static/js/453.734ea752.chunk.js": "/Trio-Photographers/static/js/453.734ea752.chunk.js",
+    "static/media/PlaywriteGBS-VariableFont_wght.ttf": "/Trio-Photographers/static/media/PlaywriteGBS-VariableFont_wght.84ef3edc02df7c19584c.ttf",
+    "static/media/slick.svg": "/Trio-Photographers/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Trio-Photographers/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Trio-Photographers/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Trio-Photographers/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Trio-Photographers/index.html",
+    "main.5491ea36.css.map": "/Trio-Photographers/static/css/main.5491ea36.css.map",
+    "main.7514044b.js.map": "/Trio-Photographers/static/js/main.7514044b.js.map",
+    "453.734ea752.chunk.js.map": "/Trio-Photographers/static/js/453.734ea752.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5491ea36.css",
+    "static/js/main.7514044b.js"
+  ]
+}
